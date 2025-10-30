@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Namer",
+  "description": "Upload a product photo and let Gemini generate a creative and marketable name for it. The first module of a comprehensive SEO, marketing, and copywriting application.",
+  "requestFramePermissions": []
+}
